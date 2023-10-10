@@ -1,1 +1,2 @@
 2023/10/09 14:57:53 [error] 30#30: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2023/10/10 08:04:19 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
